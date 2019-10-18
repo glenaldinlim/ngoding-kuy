@@ -9,6 +9,6 @@ This app is a list of *online programming course* at *Indonesia* Region.
 - Created by: Glenaldin Halim
 - Submitted at: 03 Oct 2019
 
-## Creator
+## Find the Creator
 - [Glenaldin Halim's Dicoding Profile](https://www.dicoding.com/users/394965)
 - [Glenaldin Halim's Github](https://github.com/glenaldinlim)
