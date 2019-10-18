@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ngoding Kuy</string>
+    <string name="codes_name">Nama Tempat Belajar</string>
+    <string name="platform">Platform</string>
+    <string name="dev_name">Glenaldin Halim</string>
+    <string name="dev_mail">glenaldinhalim16@gmail.com</string>
+    <string name="about_title">About This App</string>
+    <string name="about_meet">Introduce The Developer</string>
+    <string name="about_version">Version: Demo</string>
+    <string name="menu_about">About</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_platform">Course Platform</string>
+    <string name="available_course">Available Course</string>
+    <string name="learning_method">Learning Method</string>
+    <string name="course_site_url">Course Site URL</string>
+    <string name="detail_course">Detail Content</string>
+</resources>
